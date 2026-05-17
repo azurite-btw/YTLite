@@ -10,7 +10,7 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
 
-## Screenshots
+## Screenshots 
 <table>
    <tr>
       <td><img src="Resources/scr1.jpg" alt="Screenshot 1" /></td>
